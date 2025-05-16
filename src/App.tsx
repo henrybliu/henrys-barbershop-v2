@@ -1,6 +1,6 @@
-import Calendar from "./components/calendar/calendar";
-import Gallery from "./components/gallery/gallery";
-import Home from "./components/home/home";
+import Calendar from "./components/calendar/Calendar";
+import Gallery from "./components/gallery/Gallery";
+import Home from "./components/home/Home";
 
 function App() {
   return (
